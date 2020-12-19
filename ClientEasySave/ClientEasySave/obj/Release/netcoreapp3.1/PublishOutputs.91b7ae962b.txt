@@ -1,0 +1,5 @@
+D:\_Documents\PROG\Published\ClientEasySave.exe
+D:\_Documents\PROG\Published\ClientEasySave.dll
+D:\_Documents\PROG\Published\ClientEasySave.deps.json
+D:\_Documents\PROG\Published\ClientEasySave.runtimeconfig.json
+D:\_Documents\PROG\Published\ClientEasySave.pdb

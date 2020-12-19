@@ -1,0 +1,31 @@
+EasySave
+
+Release notes
+
+----v1.0----
+
+-en-EN language
+-User able to create 5 saveworks
+-User able to delete 1 savework or all the saveworks
+-User able to run 1 savework or all the savework
+-When creating a savework, the source and destination folder can be on differents disk
+-A save can be complete or differential
+-At each run of save, the log file will be update with the new save
+-The state file is updated in real time during the saveworks
+-When running a savework, the sourceFolder and it's subdirectories will be save.
+
+----v1.1----
+
+-Added fr-FR
+-Added daily log file
+-Fix of differential save
+
+----v2.0----
+
+-Change to graphical design using WPF
+-Added encryption using Cryptosoft
+-Added encryption time to daily log file
+-Added possibility to not save when a business soft is detected
+-Update French language to WPF
+-User able to create illimited saveworks
+

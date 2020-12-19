@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SaveWorkModel>
+	<name>Comptad</name>
+	<sourceFolder>D:\_Documents\EasySave\Compta</sourceFolder>
+	<destinationFolder>D:\Save_Compta</destinationFolder>
+	<type>diff</type>
+	<encrypt>False</encrypt>
+</SaveWorkModel>

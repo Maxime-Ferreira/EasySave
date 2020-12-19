@@ -1,0 +1,31 @@
+﻿<Window x:Class="ClientEasySave.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClientEasySave"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Name="grid">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="250"/>
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Button Name ="play" Content="Play" Click="Play" Width="108" Height="24" Grid.Column ="0" Margin="20" VerticalAlignment="Top"/>
+        <Button Name ="pause" Content="Pause" Click="Pause" Width="108" Height="24" Grid.Column ="1" Margin="20" VerticalAlignment="Top"/>
+        <Button Name ="stop" Content="Stop" Click="Stop" Width="108" Height="24" Grid.Column ="2" Margin="20" VerticalAlignment="Top"/>
+
+        <Button Name ="Connect" Content="Connect" Click="ConnectButton" Width="108" Height="24" Grid.Column ="0" Grid.Row="2" HorizontalAlignment="Right"  VerticalAlignment="Bottom" Margin="0, 20"/>
+        <Button Name ="Disconnect" Content="Disconnect" Click="DisconnectButton" Width="108" Height="24" Grid.Column ="2" Grid.Row="2" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0, 20"/>
+        
+        <StackPanel Name="stackPanelParent" Orientation="Vertical" Grid.Row="1" Grid.ColumnSpan="3">
+
+        </StackPanel>
+    </Grid>
+</Window>

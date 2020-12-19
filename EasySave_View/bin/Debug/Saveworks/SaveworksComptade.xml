@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SaveWorkModel>
+	<name>Comptade</name>
+	<sourceFolder>D:\_Documents\EasySave\Compta 2018</sourceFolder>
+	<destinationFolder>D:\Save_Compta</destinationFolder>
+	<type>diff</type>
+	<encrypt>True</encrypt>
+</SaveWorkModel>

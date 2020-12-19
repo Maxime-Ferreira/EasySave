@@ -1,0 +1,7 @@
+D:\_Documents\PROG\Published\EasySave\EasySave_View.exe
+D:\_Documents\PROG\Published\EasySave\EasySave_View.dll
+D:\_Documents\PROG\Published\EasySave\EasySave_View.deps.json
+D:\_Documents\PROG\Published\EasySave\EasySave_View.runtimeconfig.json
+D:\_Documents\PROG\Published\EasySave\EasySave_View.pdb
+D:\_Documents\PROG\Published\EasySave\Core.dll
+D:\_Documents\PROG\Published\EasySave\Core.pdb

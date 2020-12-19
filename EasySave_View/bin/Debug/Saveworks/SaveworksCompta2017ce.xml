@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SaveWorkModel>
+	<name>Compta2017ce</name>
+	<sourceFolder>D:\_Documents\EasySave\Compta 2017</sourceFolder>
+	<destinationFolder>D:\Save_Compta</destinationFolder>
+	<type>complete</type>
+	<encrypt>True</encrypt>
+</SaveWorkModel>

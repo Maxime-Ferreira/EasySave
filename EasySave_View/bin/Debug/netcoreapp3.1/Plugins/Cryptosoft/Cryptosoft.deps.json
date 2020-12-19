@@ -1,0 +1,70 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cryptosoft/1.0.0": {
+        "dependencies": {
+          "CryptoSoft_Core": "1.0.0",
+          "ManyConsole": "2.0.1"
+        },
+        "runtime": {
+          "Cryptosoft.dll": {}
+        }
+      },
+      "ManyConsole/2.0.1": {
+        "dependencies": {
+          "Mono.Options": "5.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/ManyConsole.dll": {
+            "assemblyVersion": "2.0.1.0",
+            "fileVersion": "2.0.1.0"
+          }
+        }
+      },
+      "Mono.Options/5.3.0": {
+        "runtime": {
+          "lib/netstandard1.3/Mono.Options.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.3.0.0"
+          }
+        }
+      },
+      "CryptoSoft_Core/1.0.0": {
+        "runtime": {
+          "CryptoSoft_Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cryptosoft/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ManyConsole/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JaNOJjBcZ5qvkvhtw0NTT5qcV29s7kV7IbeonCfV4tX9Wyewe2dcSkuNNmUkZDyeTyFNL9RPicOD7Vf8xuqhRQ==",
+      "path": "manyconsole/2.0.1",
+      "hashPath": "manyconsole.2.0.1.nupkg.sha512"
+    },
+    "Mono.Options/5.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pRL0iiFkkUmQbdPDCpCQRee6w4jj63tdyS2F64jg9859t3DKBXlLpDCvZLs4C45ZSDmWD9tiJtIx/7O8/B1XkA==",
+      "path": "mono.options/5.3.0",
+      "hashPath": "mono.options.5.3.0.nupkg.sha512"
+    },
+    "CryptoSoft_Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
