@@ -148,7 +148,7 @@
     <value>Choose your extension</value>
   </data>
   <data name="dest_lbl" xml:space="preserve">
-    <value>Destination folder :</value>
+    <value>Destination folder</value>
   </data>
   <data name="header_about" xml:space="preserve">
     <value>About us</value>
